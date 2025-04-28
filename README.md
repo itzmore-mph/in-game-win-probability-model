@@ -41,11 +41,15 @@ The aim is to create a data-driven system that can *quantify* and *visualize* th
 ---
 
 ## Project Structure
-/data/ # Match event datasets (CSV, JSON) 
-/notebooks/ # Jupyter Notebooks for feature engineering and model training 
-/models/ # Saved models (optional) 
-/dashboard/ # Streamlit or Dash app (future work) 
-/README.md # Project documentation
+
+in-game-win-probability-model
+│
+├── /data/              # Match event datasets (CSV, JSON) 
+├── /notebooks/         # Jupyter Notebooks for feature engineering and model training 
+├── /models/            # Saved models (optional) 
+├── /dashboard/         # Streamlit or Dash app (future work) 
+├── requirements.txt    # Python dependencies
+└── /README.md          # Project documentation
 
 ---
 
