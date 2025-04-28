@@ -42,6 +42,7 @@ The aim is to create a data-driven system that can *quantify* and *visualize* th
 
 ## Project Structure
 
+```
 in-game-win-probability-model
 │
 ├── /data/              # Match event datasets (CSV, JSON) 
@@ -50,7 +51,7 @@ in-game-win-probability-model
 ├── /dashboard/         # Streamlit or Dash app (future work) 
 ├── requirements.txt    # Python dependencies
 └── /README.md          # Project documentation
-
+```
 ---
 
 ## Results
