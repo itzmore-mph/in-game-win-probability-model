@@ -83,9 +83,9 @@ The probability plots provide a dynamic way to monitor how key events shift a te
 ## Contact
 Feel free to reach out for collaborations or questions:
 
-**Name**: [Moritz Philipp Haaf]  
-**LinkedIn**: [https://www.linkedin.com/feed/]  
-**Email**: [moritz_haaf@outlook.com]
+**Name**: Moritz Philipp Haaf
+**LinkedIn**: https://www.linkedin.com/in/moritz-philipp-haaf/
+**Email**: moritz_haaf@outlook.com
 
 ---
 
