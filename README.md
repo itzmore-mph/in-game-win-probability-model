@@ -87,7 +87,7 @@ Feel free to reach out for collaborations or questions:
 
 **LinkedIn**: https://www.linkedin.com/in/moritz-philipp-haaf/
 
-**Email**: moritz_haaf@outlook.com
+**Email**: itzmore.dev@gmail.com
 
 ---
 
